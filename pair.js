@@ -61,17 +61,17 @@ router.get('/', async (req, res) => {
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN WASI MD 』*
+║ *『 WOW YOU'VE CHOSEN abbas jani 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1_
-║❒ *Owner:* _https://wa.me/923192173398_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
+║❒ *Ytube:* _https://www.facebook.com/share/v/1EExtJaLph/_
+║❒ *Owner:* _https://www.facebook.com/share/v/1EExtJaLph/_
+║❒ *Repo:* _https://www.facebook.com/share/v/1EExtJaLph/
+║❒ *WaGroup:* _https://www.facebook.com/share/v/1EExtJaLph/
+║❒ *WaChannel:* _https://www.facebook.com/share/v/1EExtJaLph/
+║❒ *Plugins:* _https://www.facebook.com/share/v/1EExtJaLph/
 ╚════════════════════════╝
 _____________________________________
 
